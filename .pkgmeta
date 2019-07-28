@@ -1,5 +1,5 @@
-package-as: DBM-CountPackHotS
+package-as: DBM-CountPack-HotS
 enable-nolib-creation: no
 
 move-folders:
-    DBM-CountPackHotS/DBM-CountPackHotS: DBM-CountPackHotS
+    DBM-CountPack-HotS/DBM-CountPack-HotS: DBM-CountPack-HotS
