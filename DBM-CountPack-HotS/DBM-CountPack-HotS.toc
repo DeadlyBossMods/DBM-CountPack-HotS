@@ -1,10 +1,12 @@
-﻿## Interface: 80100
+﻿## Interface: 80200
 ## X-Min-Interface: 70200
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Countpack HotS|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: MysticalOS
-## Version: 1.6
+## Version: 1.7.0
 ## X-DBM-CountPack: 1
 ## X-DBM-CountPack-GlobalName: DBMCPHotS
+## X-Curse-Project-ID: 267646
+
 CountLoadList.lua
