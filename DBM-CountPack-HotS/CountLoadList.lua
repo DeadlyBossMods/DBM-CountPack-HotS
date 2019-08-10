@@ -1,5 +1,5 @@
 local inserted = false
-function DBMCPHoTS()
+function DBMCPHotS()
 	if inserted then return end
 	tinsert(DBM.Counts, {	text	= "HoTS: Default",	value 	= "HoTS_Default", path = "Interface\\AddOns\\DBM-CountPack-HoTS\\Default\\", max = 5})
 	tinsert(DBM.Counts, {	text	= "HoTS: Abathur",	value 	= "HoTS_Abathur", path = "Interface\\AddOns\\DBM-CountPack-HoTS\\Abathur\\", max = 5})
