@@ -1,4 +1,6 @@
+local tinsert = table.insert
 local inserted = false
+
 function DBMCPHotS()
 	if inserted then return end
 	tinsert(DBM.Counts, {	text	= "HoTS: Default",			value 	= "HoTS_Default",		path = "Interface\\AddOns\\DBM-CountPack-HoTS\\Default\\",		max = 5})
