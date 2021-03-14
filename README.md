@@ -14,7 +14,4 @@ You might wonder, why concern self with how big the DBM download is. Believe it 
 Just install this with Twitch client, or download and unzip and drop the DBM-CountPack-HoTS folder directly into addons folder and DBM-Core version 7.2.7 or higher will be able to add the counts to countdown drop downs.
 
 
-After that, just select the Heroes of the Storm files from the countdown drop down menus as featured in below screen shot
-
-
-[![Screenshot](https://media-elerium.cursecdn.com/attachments/204/360/screen-shot-2017-05-15-at-1.jpg)](https://media-elerium.cursecdn.com/attachments/204/360/screen-shot-2017-05-15-at-1.jpg)
+After that, just select the Heroes of the Storm files from the countdown drop down menus
