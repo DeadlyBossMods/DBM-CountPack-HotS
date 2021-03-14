@@ -12,5 +12,6 @@
 ## X-DBM-CountPack: 1
 ## X-DBM-CountPack-GlobalName: DBMCPHotS
 ## X-Curse-Project-ID: 267646
+## X-Wago-ID: XrNkewKa
 
 CountLoadList.lua
