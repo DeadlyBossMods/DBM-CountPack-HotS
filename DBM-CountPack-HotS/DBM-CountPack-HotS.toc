@@ -2,6 +2,7 @@
 ## Interface-Classic: 11402
 ## Interface-BCC: 20503
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Countpack HotS|r
+## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Звуки отсчёта из HotS|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: MysticalOS
