@@ -8,6 +8,7 @@
 ## RequiredDeps: DBM-Core
 ## Author: MysticalOS
 ## Version: @project-version@
+## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
 ## X-DBM-CountPack: 1
 ## X-DBM-CountPack-GlobalName: DBMCPHotS
 ## X-Curse-Project-ID: 267646
