@@ -1,0 +1,15 @@
+## Interface: 20504
+## Category: DBM
+## Title:|cffffe00a<|r|cffff7d0aDBM Media|r|cffffe00a>|r |cff308530Countpack HotS|r
+## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM Медиа|r|cffffe00a>|r |cff308530Звуки отсчёта из HotS|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: MysticalOS
+## Version: @project-version@
+## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
+## X-DBM-CountPack: 1
+## X-DBM-CountPack-GlobalName: DBMCPHotS
+## X-Curse-Project-ID: 267646
+## X-Wago-ID: XrNkewKa
+
+CountLoadList.lua
